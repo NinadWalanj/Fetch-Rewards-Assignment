@@ -1,4 +1,3 @@
-import React from "react";
 import type { SortField } from "../hooks/useDogSearch";
 
 interface SortControlProps {

@@ -1,4 +1,3 @@
-import React from "react";
 import DogCard from "./DogCard";
 import { Dog } from "../types";
 

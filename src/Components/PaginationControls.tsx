@@ -1,5 +1,3 @@
-import React from "react";
-
 interface PaginationControlsProps {
   prevCursor?: string;
   nextCursor?: string;

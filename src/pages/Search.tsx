@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import type { SortField } from "../hooks/useDogSearch";
 import { useDogSearch } from "../hooks/useDogSearch";
 import { useFavorites } from "../hooks/useFavorites";

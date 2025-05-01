@@ -1,4 +1,3 @@
-import React from "react";
 import { Dog } from "../types";
 
 interface DogCardProps {
