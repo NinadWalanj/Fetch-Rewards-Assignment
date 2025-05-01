@@ -7,7 +7,7 @@
 
 1. Clone the repo
    
-   git clone https://github.com/your-username/fetch-dogs-app.git
+   git clone https://github.com/NinadWalanj/Fetch-Rewards-Assignment.git
 
    cd fetch-dogs-app
 
