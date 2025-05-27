@@ -1,6 +1,6 @@
 ## Prerequisites
 
-- **Node.js** v16+ and **npm** (or Yarn) installed
+- **Node.js** v16+ and **npm** installed
 
 ## Getting Started
 
