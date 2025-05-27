@@ -1,7 +1,6 @@
 ## Prerequisites
 
-- **Node.js** v16+ and **npm** (or Yarn) installed  
-- Internet connection (to hit the hosted API)
+- **Node.js** v16+ and **npm** (or Yarn) installed
 
 ## Getting Started
 
