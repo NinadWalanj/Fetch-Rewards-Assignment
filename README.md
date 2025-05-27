@@ -1,4 +1,4 @@
-## Prerequisite
+## Prerequisites
 
 - **Node.js** v16+ and **npm** installed
 
